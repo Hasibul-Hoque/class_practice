@@ -1,0 +1,47 @@
+.box2{
+	width: 800px;
+	margin:50px auto;
+	background:paleturquoise;
+	padding: 80px 50px;
+	border-radius: 8px;
+	box-shadow:0 0 20px #654d5a;
+}
+h1{
+	color:white ;
+	font-size: 70px;
+	margin: 0;
+	text-align: center;
+}
+p{
+	font-size: 24px;
+	color: #fff;
+}
+.purple{
+	color: #ca71bf;
+}
+.red{
+   	color:blue ;
+}
+.green{
+	color:#434a6d;
+}
+h2{
+	font-size: 40px;
+	margin: 0;
+	font-weight:100 ;
+	letter-spacing:14px ;
+	text-align: center;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+ul{
+	padding: 0;
+	margin: 0;
+	list-style-type:none;
+}
+li{
+	padding: 5px;
+}
+a{
+	color: #715619;
+}
